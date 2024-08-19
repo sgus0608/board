@@ -8,6 +8,7 @@ public class BoardserverApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BoardserverApplication.class, args);
+
 	}
 
 }
